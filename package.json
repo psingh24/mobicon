@@ -31,7 +31,7 @@
     "blackberry10"
   ],
   "dependencies": {
-    "android-icon-list": "^1.0.1",
+    "android-icon-list": "psingh24/android-icon-list",
     "bb10-icon-list": "^1.0.0",
     "gm": "^1.21.1",
     "ios-icon-list": "^1.0.0",
